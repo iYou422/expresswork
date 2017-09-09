@@ -1,0 +1,28 @@
+{
+  "name": "@iyou422/expressworks",
+  "version": "1.0.0",
+  "description": "expressworks exercise",
+  "main": "goodoldform.js",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "morgan": "^1.8.2",
+    "express": "^4.15.4",
+    "pug": "^0.1.0",
+    "jade": "^1.11.0",
+    "stylus": "^0.54.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iYou422/expressworks.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iYou422/expressworks/issues"
+  },
+  "homepage": "https://github.com/iYou422/expressworks#readme"
+}
